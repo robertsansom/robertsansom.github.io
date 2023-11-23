@@ -1,10 +1,10 @@
 html,body{margin:0;padding:0}
-body{font-size: 90%; font-family: Verdana, Geneva, sans-serif;color:#141823;text-align:left; margin:50px 80px 60px; max-width: 770px;text-align:justify}
+body{font-size: 90%; font-family: sans-serif;color:#141823;text-align:left; margin:50px 80px 60px; max-width: 770px;text-align:justify}
 p{margin:10px 0px 10px}
 
 h1{margin: 20x 0px 20px;font-size:200%;
-color:#000000;font: Geneva; font-weight: normal;line-height:160%}
-h2{margin: 20x 0px 20px;font-size:130%;color:#000000;font-weight: normal;line-height:160%}
+color:#000000; font-family: sans-serif;font-weight: normal;line-height:160%}
+h2{margin: 20x 0px 20px;font-size:400%;font-family: Tahoma ;color:#000000;font-weight: normal;line-height:160%}
 a:link {
      color:#2471A3;
      text-decoration:none;
